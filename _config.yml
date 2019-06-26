@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Li Xiangwei"
-  avatar           : "/images/profile.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Postdoctoral Research Associate at USYD"
   location         : "Sydney"
   employer         :
