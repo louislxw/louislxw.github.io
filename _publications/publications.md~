@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](Forthcoming)<br> 
-<u>Xiangwei Li</u>, Douglas L. Maskell <br> 
-<em>ACM Transactions on Design Automation of Electronic Systems (<strong>ACM TODAES</strong>)</em>, July 2019. <br>
+Peer-Reviewed Conference Papers
+-------------------------------
 
 <strong>“A Time-Multiplexed FPGA Overlay with Linear Interconnect”</strong>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8342171)<br> 
 <u>Xiangwei Li</u>, Abhishek Kumar Jain, Douglas L. Maskell, and Suhaib A. Fahmy <br> 
@@ -22,9 +21,24 @@ Abhishek Kumar Jain, <u>Xiangwei Li</u>, Pranjul Singhai, Douglas L. Maskell, an
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Washington DC, USA, May 2016. <br>
 
 <strong>“An Area-Efficient FPGA Overlay using DSP Block based Time-multiplexed Functional Units”</strong>[[PDF]](https://arxiv.org/abs/1606.06460)<br> 
-Abhishek Kumar Jain, <u>Xiangwei Li</u>, Pranjul Singhai, Douglas L. Maskell, and Suhaib A. Fahmy <br> 
-<em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Monterey CA, USA, February 2016. <br>
+<u>Xiangwei Li</u>, Abhishek Kumar Jain, Pranjul Singhai, Douglas L. Maskell, and Suhaib A. Fahmy <br> 
+<em>2nd International Workshop on Overlay Architectures for FPGAs (<strong>OLAF</strong>)</em>, Monterey CA, USA, February 2016. <br>
 
 <strong>“Adapting the DySER Architecture with DSP Blocks as an Overlay for the Xilinx Zynq”</strong>[[PDF]](https://dl.acm.org/citation.cfm?id=2927970)<br> 
 Abhishek Kumar Jain, <u>Xiangwei Li</u>, Suhaib A. Fahmy, and Douglas L. Maskell <br> 
 <em>Proceedings of the International Symposium on Highly-Efficient Accelerators and Reconfigurable Technologies (<strong>HEART</strong>)</em>, Boston MA, USA, June 2015.<br>
+
+
+Peer-Reviewed Journal and Magazine Articles
+-------------------------------------------
+
+<strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](Forthcoming)<br> 
+<u>Xiangwei Li</u>, Douglas L. Maskell <br> 
+<em>ACM Transactions on Design Automation of Electronic Systems (<strong>ACM TODAES</strong>)</em>, July 2019. <br>
+
+
+PhD Thesis
+----------
+
+<strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://dr.ntu.edu.sg/bitstream/handle/10220/46937/thesis_LiXiangwei.pdf?sequence=1&isAllowed=y)<br> 
+Xiangwei Li, PhD Thesis, Nanyang Technological University, Singapore, December 2018. <br>
