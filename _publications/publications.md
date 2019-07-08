@@ -34,11 +34,11 @@ Peer-Reviewed Journal and Magazine Articles
 
 <strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](Forthcoming)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell <br> 
-<em>ACM Transactions on Design Automation of Electronic Systems (<strong>ACM TODAES</strong>)</em>, July 2019. <br>
+<em>ACM Transactions on Design Automation of Electronic Systems (<strong>TODAES</strong>)</em>, July 2019. <br>
 
 
 PhD Thesis
 ----------
 
-<strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://dr.ntu.edu.sg/bitstream/handle/10220/46937/thesis_LiXiangwei.pdf?sequence=1&isAllowed=y)<br> 
+<strong>“Time-multiplexed FPGA overlays with linear interconnect”</strong>[[PDF]](https://dr.ntu.edu.sg/bitstream/handle/10220/46937/thesis_LiXiangwei.pdf?sequence=1&isAllowed=y)<br> 
 Xiangwei Li, PhD Thesis, Nanyang Technological University, Singapore, December 2018. <br>

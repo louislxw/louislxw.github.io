@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Xiangwei"
+title                    : "LI XIANGWEI"
 title_separator          : "-"
 name                     : &name "Li Xiangwei"
 description              : &description "Postdoctoral Research Associate at USYD"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Xiangwei"
+  name             : "Dr Li Xiangwei"
   avatar           : "avatar.jpg"
   bio              : "Postdoctoral Research Associate at USYD"
   location         : "Sydney, Australia"
