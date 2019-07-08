@@ -40,5 +40,5 @@ Peer-Reviewed Journal and Magazine Articles
 PhD Thesis
 ----------
 
-<strong>“Time-multiplexed FPGA overlays with linear interconnect”</strong>[[PDF]](https://dr.ntu.edu.sg/bitstream/handle/10220/46937/thesis_LiXiangwei.pdf?sequence=1&isAllowed=y)<br> 
+<strong>“Time-Multiplexed FPGA Overlays with Linear Interconnect”</strong>[[PDF]](https://dr.ntu.edu.sg/bitstream/handle/10220/46937/thesis_LiXiangwei.pdf?sequence=1&isAllowed=y)<br> 
 Xiangwei Li, PhD Thesis, Nanyang Technological University, Singapore, December 2018. <br>
