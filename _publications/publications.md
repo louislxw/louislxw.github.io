@@ -32,7 +32,7 @@ Abhishek Kumar Jain, <u>Xiangwei Li</u>, Suhaib A. Fahmy, and Douglas L. Maskell
 Peer-Reviewed Journal and Magazine Articles
 -------------------------------------------
 
-<strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](Forthcoming)<br> 
+<strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://dl.acm.org/citation.cfm?id=3339861&dl=ACM&coll=DL)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell <br> 
 <em>ACM Transactions on Design Automation of Electronic Systems (<strong>TODAES</strong>)</em>, July 2019. <br>
 
