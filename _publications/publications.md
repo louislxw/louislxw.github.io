@@ -10,7 +10,7 @@ Peer-Reviewed Conference Papers
 
 <strong>“High Throughput Accelerator Interface Frameworkfor a Linear Time-Multiplexed FPGA Overlay”</strong>
 <u>Xiangwei Li</u>, Kizheppatt Vipin, Douglas L. Maskell, and Suhaib A. Fahmy and Abhishek Kumar Jain <br> 
-<em>IEEE International Symposium on Circuits & Systems (<strong>ISCAS</strong>)</em>, Sevilla, SPAIN, May 2020.<br>
+<em>IEEE International Symposium on Circuits & Systems (<strong>ISCAS</strong>)</em>, Sevilla, SPAIN, October 2020.<br>
 
 <strong>“A Time-Multiplexed FPGA Overlay with Linear Interconnect”</strong>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8342171)<br> 
 <u>Xiangwei Li</u>, Abhishek Kumar Jain, Douglas L. Maskell, and Suhaib A. Fahmy <br> 
