@@ -8,9 +8,9 @@ author_profile: true
 Peer-Reviewed Conference Papers
 -------------------------------
 
-<strong>“High Throughput Accelerator Interface Frameworkfor a Linear Time-Multiplexed FPGA Overlay”</strong>
+<strong>“High Throughput Accelerator Interface Frameworkfor a Linear Time-Multiplexed FPGA Overlay”</strong>[[PDF]](https://ieeexplore.ieee.org/document/9181072)<br>
 <u>Xiangwei Li</u>, Kizheppatt Vipin, Douglas L. Maskell, and Suhaib A. Fahmy and Abhishek Kumar Jain <br> 
-<em>IEEE International Symposium on Circuits & Systems (<strong>ISCAS</strong>)</em>, Sevilla, SPAIN, October 2020.<br>
+<em>IEEE International Symposium on Circuits & Systems (<strong>ISCAS</strong>)</em>, Virtual Conference, October 2020.<br>
 
 <strong>“A Time-Multiplexed FPGA Overlay with Linear Interconnect”</strong>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8342171)<br> 
 <u>Xiangwei Li</u>, Abhishek Kumar Jain, Douglas L. Maskell, and Suhaib A. Fahmy <br> 
@@ -35,6 +35,10 @@ Abhishek Kumar Jain, <u>Xiangwei Li</u>, Suhaib A. Fahmy, and Douglas L. Maskell
 
 Peer-Reviewed Journal and Magazine Articles
 -------------------------------------------
+
+<strong>“Quantization Error Analysis of Techniques for Estimating Spectral Correlation Density”</strong> 
+Jingyi Li, <u>Xiangwei Li</u>, David Boland, Philip H.W. Leong <br> 
+<em>Transactions on Circuits and Systems II (<strong>TCAS-II</strong>)</em>, under review, March 2021. <br>
 
 <strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://dl.acm.org/citation.cfm?id=3339861&dl=ACM&coll=DL)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell <br> 
