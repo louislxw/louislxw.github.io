@@ -38,7 +38,7 @@ Peer-Reviewed Journal and Magazine Articles
 
 <strong>“Quantization Error Analysis of Techniques for Estimating Spectral Correlation Density”</strong> <br>
 Jingyi Li, <u>Xiangwei Li</u>, David Boland, Philip H.W. Leong <br> 
-<em>Transactions on Circuits and Systems II (<strong>TCAS-II</strong>)</em>, under review, March 2021. <br>
+<em>IEEE Transactions on Circuits and Systems II: Express Briefs (<strong>TCAS-II</strong>)</em>, under review, March 2021. <br>
 
 <strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://dl.acm.org/citation.cfm?id=3339861&dl=ACM&coll=DL)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell <br> 
