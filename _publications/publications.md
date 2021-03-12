@@ -36,7 +36,7 @@ Abhishek Kumar Jain, <u>Xiangwei Li</u>, Suhaib A. Fahmy, and Douglas L. Maskell
 Peer-Reviewed Journal and Magazine Articles
 -------------------------------------------
 
-<strong>“Quantization Error Analysis of Techniques for Estimating Spectral Correlation Density”</strong> 
+<strong>“Quantization Error Analysis of Techniques for Estimating Spectral Correlation Density”</strong> <br>
 Jingyi Li, <u>Xiangwei Li</u>, David Boland, Philip H.W. Leong <br> 
 <em>Transactions on Circuits and Systems II (<strong>TCAS-II</strong>)</em>, under review, March 2021. <br>
 
