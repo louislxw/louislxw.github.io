@@ -35,10 +35,13 @@ Abhishek Kumar Jain, <u>Xiangwei Li</u>, Suhaib A. Fahmy, and Douglas L. Maskell
 
 Peer-Reviewed Journal and Magazine Articles
 -------------------------------------------
+<strong>“A Scalable Systolic Accelerator for the Spectral Correlation Density Function and Its FPGA Implementation”</strong><br> 
+<u>Xiangwei Li</u>, Douglas L. Maskell, Jingyi Li, Philip H.W. Leong, David Boland <br> 
+<em>ACM Transactions on Reconfigurable Technology and Systems (<strong>TRETS</strong>)</em>, under review, July 2021. <br>
 
 <strong>“Quantization Error Analysis of Techniques for Estimating Spectral Correlation Density”</strong> <br>
 Jingyi Li, <u>Xiangwei Li</u>, David Boland, Philip H.W. Leong <br> 
-<em>IEEE Transactions on Circuits and Systems II: Express Briefs (<strong>TCAS-II</strong>)</em>, under review, March 2021. <br>
+<em>IEEE Transactions on Circuits and Systems II: Express Briefs (<strong>TCAS-II</strong>)</em>, under review, July 2021. <br>
 
 <strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://dl.acm.org/citation.cfm?id=3339861&dl=ACM&coll=DL)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell <br> 
