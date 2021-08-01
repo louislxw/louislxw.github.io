@@ -12,7 +12,7 @@ Peer-Reviewed Conference Papers
 <u>Xiangwei Li</u>, Kizheppatt Vipin, Douglas L. Maskell, and Suhaib A. Fahmy and Abhishek Kumar Jain <br> 
 <em>IEEE International Symposium on Circuits & Systems (<strong>ISCAS</strong>)</em>, Virtual Conference, October 2020.<br>
 
-<strong>“A Time-Multiplexed FPGA Overlay with Linear Interconnect”</strong>[[PDF]](https://louislxw.github.io/files/DATE2018.pdf)[[Slides]](https://louislxw.github.io/files/DATE2018-slides.pdf<br> 
+<strong>“A Time-Multiplexed FPGA Overlay with Linear Interconnect”</strong>[[PDF]](https://louislxw.github.io/files/DATE2018.pdf)[[Slides]](https://louislxw.github.io/files/DATE2018-slides.pdf)<br> 
 <u>Xiangwei Li</u>, Abhishek Kumar Jain, Douglas L. Maskell, and Suhaib A. Fahmy <br> 
 <em>Design, Automation & Test in Europe Conference & Exhibition (<strong>DATE</strong>)</em>, Dresden, Germany, March 2018.<br>
 
