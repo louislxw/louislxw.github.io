@@ -37,11 +37,11 @@ Peer-Reviewed Journal and Magazine Articles
 -------------------------------------------
 <strong>“A Scalable Systolic Accelerator for the Spectral Correlation Density Function and Its FPGA Implementation”</strong><br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell, Jingyi Li, Philip H.W. Leong, David Boland <br> 
-<em>ACM Transactions on Reconfigurable Technology and Systems (<strong>TRETS</strong>)</em>, under review, August 2021. <br>
+<em>ACM Transactions on Reconfigurable Technology and Systems (<strong>TRETS</strong>)</em>, to appear, June 2022. <br>
 
-<strong>“Quantization Error Analysis of Techniques for Estimating Spectral Correlation Density”</strong> <br>
-Jingyi Li, <u>Xiangwei Li</u>, David Boland, Philip H.W. Leong <br> 
-<em>IEEE Transactions on Circuits and Systems II: Express Briefs (<strong>TCAS-II</strong>)</em>, under review, July 2021. <br>
+<strong>“Fixed-Point FPGA Implementation of the FFT Accumulation Method for Real-time Cyclostationary Analysis”</strong> <br>
+Jingyi Li, <u>Xiangwei Li</u>, Binglei Lou, Craig T. Jin, David Boland, Philip H.W. Leong <br> 
+<em>ACM Transactions on Reconfigurable Technology and Systems (<strong>TRETS</strong>)</em>, under review, June 2022. <br>
 
 <strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://louislxw.github.io/files/TODAES2019.pdf)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell <br> 
