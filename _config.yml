@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "LI XIANGWEI"
 title_separator          : "-"
 name                     : &name "Li Xiangwei"
-description              : &description "Design Engineer at Avnet"
+description              : &description "Senior Staff Engineer at Huawei"
 url                      : https://louislxw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "louislxw/louislxw.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr Li Xiangwei"
   avatar           : "avatar.jpg"
-  bio              : "Design Engineer at Avnet"
+  bio              : "Senior Staff Engineer at Huawei"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
