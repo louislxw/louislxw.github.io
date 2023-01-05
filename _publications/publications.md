@@ -37,15 +37,15 @@ Peer-Reviewed Journal and Magazine Articles
 -------------------------------------------
 <strong>“A Scalable Systolic Accelerator for the Spectral Correlation Density Function and Its FPGA Implementation”</strong>[[PDF]](https://louislxw.github.io/files/TRETS2022.pdf)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell, Jingyi Li, Philip H.W. Leong, David Boland <br> 
-<em>ACM Transactions on Reconfigurable Technology and Systems (<strong>TRETS</strong>)</em>, just accepted, July 2022. <br>
+<em>ACM Transactions on Reconfigurable Technology and Systems (<strong>TRETS</strong>)</em>, 16, No.1, Article 9, 2022. <br>
 
-<strong>“Fixed-Point FPGA Implementation of the FFT Accumulation Method for Real-time Cyclostationary Analysis”</strong>[[PDF]](https://louislxw.github.io/files/FPT_TRETS2022.pdf) <br>
+<strong>“Fixed-Point FPGA Implementation of the FFT Accumulation Method for Real-time Cyclostationary Analysis”</strong>[[PDF]](https://louislxw.github.io/files/FPT_TRETS2022.pdf)[[Slides]](https://louislxw.github.io/files/FPT_TRETS2022-slides.pdf) <br>
 Jingyi Li, <u>Xiangwei Li</u>, Binglei Lou, Craig T. Jin, David Boland, Philip H.W. Leong <br> 
 <em>ACM Transactions on Reconfigurable Technology and Systems (<strong>TRETS</strong>)</em>, just accepted, September 2022. <br>
 
 <strong>“Time-Multiplexed FPGA Overlay Architectures: A Survey”</strong>[[PDF]](https://louislxw.github.io/files/TODAES2019.pdf)<br> 
 <u>Xiangwei Li</u>, Douglas L. Maskell <br> 
-<em>ACM Transactions on Design Automation of Electronic Systems (<strong>TODAES</strong>)</em>, 24, no. 5 (2019): 1-19. <br>
+<em>ACM Transactions on Design Automation of Electronic Systems (<strong>TODAES</strong>)</em>, 24, No.5 (2019): 1-19. <br>
 
 
 PhD Thesis
