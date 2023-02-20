@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr Li Xiangwei is a Senior Staff Engineer at IC Design Department, Huawei Singapore Research Center (SRC). As a member of HiSilicon System Engineer Group, his work mainly focuses on architecture exploration and system modelling/design. 
+Dr Li Xiangwei is a Senior Staff Engineer at Architecture and System Design Group, Huawei Singapore Research Center (SRC). His work mainly focuses on system-level modeling and domain specific architecture (DSA) design. Please send your CV to li.xiangwei@huawei.com if you are interested in joining his group. 
 
 Prio to that, he was a Senior Design Engineer at Avnet Asia in Singapore from July 2021 to August 2022. His major work covers cutting edge AI applications such as object detection on Xilinx Kria SoM such as KV260, FPGA-based machine learning radio frequency system on Xilinx Gen3 RFSoC such as ZCU216, and advanced driver-assistance systems (ADAS) on Xilinx MPSoC such as ZCU104. 
 
